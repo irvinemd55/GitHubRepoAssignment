@@ -1,0 +1,13 @@
+Steps Taken
+
+1. Navigated to Github, selected the + icon to create a new repo, named the repo "GitHubRepoAssignment"
+2. Opened terminal, navigated to appropriate directory in gitbash using "cd", created GitHubRepoAssignment folder using mkdir
+3. Typed out Git Init
+4. Created readme.md file using touch command.
+5. Opened readme file in atom using atom readme.md command.
+6. Saved readme changes.
+7. Did an "add ." and "commit -m 'readme add'"
+8. Copied over git remote add origin https://github.com/irvinemd55/GitHubRepoAssignment.git and git push -u origin master 
+   from github site into command line to connect directory to repo.
+9. Created GitHubRepoAssignment.txt file using touch command.
+10. Did an add/commit/push to complete the assignment.
